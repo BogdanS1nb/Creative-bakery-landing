@@ -33,7 +33,7 @@ Figma Layout:
 **Follow these steps to run the project locally:**
 
 **1️⃣ Clone the Repository:**
-git clone https://github.com/bogdans1nb/Bike-landing.git
+git clone https://github.com/bogdans1nb/Creative-bakery-landing.git
 cd Bike-landing
 
 **2️⃣ Install Dependencies (if using build tools like Sass via npm):**
