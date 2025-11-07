@@ -34,7 +34,7 @@ Figma Layout:
 
 **1️⃣ Clone the Repository:**
 git clone https://github.com/bogdans1nb/Creative-bakery-landing.git
-cd Bike-landing
+cd Creative-bakery-landing
 
 **2️⃣ Install Dependencies (if using build tools like Sass via npm):**
 npm install
